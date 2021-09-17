@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 [![Dart Badge](https://img.shields.io/badge/-Dart-61DBFB?style=for-the-badge&labelColor=black&logo=dart&logoColor=61DBFB)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![.Net Badge](https://img.shields.io/badge/-.Net-652076?style=for-the-badge&labelColor=black&logo=.Net&logoColor=652076)](#)
 
 
+#### Job Contact 
+- :paperclip: [My Resume/CV](https://github.com/ebrahimmansur/ebrahimmansur/blob/master/resumes/Resume.pdf)
+- :email: ebrahimmansur90117@gmail.com
 
 #### Coding Stats
 
