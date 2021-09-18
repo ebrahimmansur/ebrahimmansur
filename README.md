@@ -10,7 +10,7 @@ I'm Ebrahim Mansur a Flutter and .Net Developer at <img src="https://apkplz.net/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on anis app and the System.
-- 🌱 I’m currently learning Distribution Systems.
+- 🌱 I’m currently working as a Distribution Systems developer along side my team.
 - 🤔 I’m looking for help with project ideas.
 - 💬 Ask me about Flutter and .Net
 - 📫 How to reach me: ebrahimmansur90117@gmail.com
