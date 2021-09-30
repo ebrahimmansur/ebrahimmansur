@@ -5,7 +5,7 @@ I'm Ebrahim Mansur a Flutter and .Net Developer at <img src="https://apkplz.net/
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ebrahim90117-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ebrahim90117)[![Linkedin Badge](https://img.shields.io/badge/-Ebrahim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin.com/in/ebrahim-mansur-51b526202/)[![Mail Badge](https://img.shields.io/badge/-Ebrahim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ebrahimmansur90117@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Ebrahim90117-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ebrahim90117)[![Linkedin Badge](https://img.shields.io/badge/-Ebrahim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin.com/in/ebrahim-mansur-51b526202)[![Mail Badge](https://img.shields.io/badge/-Ebrahim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ebrahimmansur90117@gmail.com)
 
 Here are some ideas to get you started about me:
 
