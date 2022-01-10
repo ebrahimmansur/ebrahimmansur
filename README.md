@@ -1,7 +1,7 @@
 
 ## Hi I'm Ebrahim Mansur <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Ebrahim Mansur a Developer at <img src="https://https://pbs.twimg.com/profile_images/3487516057/e1e88a1ef920ca0d012f8992a8bc0230_400x400.jpeg" width="28px" alt="hi">. I spend most of time coding and post contant about Mobile and System Design.
+I'm Ebrahim Mansur a Developer at <img src="//https://pbs.twimg.com/profile_images/3487516057/e1e88a1ef920ca0d012f8992a8bc0230_400x400.jpeg" width="28px" alt="hi">. I spend most of time coding and post contant about Mobile and System Design.
 
 :mailbox: Reach me out!
 
