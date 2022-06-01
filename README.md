@@ -1,5 +1,5 @@
 
-## Hi I'm Ebrahim Mansur <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="16px" alt="hi">
+## Hi I'm Ebrahim Mansur
 
 A Software Developer at Libya Telecom & Technology  <img src="https://pbs.twimg.com/profile_images/783335007733551105/UGJj5hBK_400x400.jpg" width="28px" alt="hi">. I spend most of time coding and post contant about Mobile and System Design.
 
