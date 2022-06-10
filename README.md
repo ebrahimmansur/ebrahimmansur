@@ -1,7 +1,7 @@
 
 ## Hi I'm Ebrahim Mansur
 
-A Software Developer at Libya Telecom & Technology  <img src="https://pbs.twimg.com/profile_images/783335007733551105/UGJj5hBK_400x400.jpg" width="28px" alt="hi">. I spend most of time coding and post contant about Mobile and System Design.
+A Software Developer at Libya Telecom & Technology  <img src="https://pbs.twimg.com/profile_images/783335007733551105/UGJj5hBK_400x400.jpg" width="28px" alt="hi">. I spend most of time coding and post contant about Mobile and software architecture.
 
 :mailbox: Reach me out!
 
