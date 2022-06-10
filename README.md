@@ -9,7 +9,6 @@ A Software Developer at Libya Telecom & Technology  <img src="https://pbs.twimg.
 
 Here are some ideas to get you started about me:
 
-- 🔭 I’m currently working on anis app and the System.
 - 🌱 I’m currently working as a flutter develpor and talking about software architect along side my team.
 - 🤔 I’m looking for help with project ideas.
 - 💬 Ask me about Flutter and .Net
