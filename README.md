@@ -23,7 +23,7 @@ Here are some ideas to get you started about me:
 
 
 #### Job Contact 
-- :paperclip: [My Resume/CV](https://github.com/ebrahimmansur/ebrahimmansur/blob/master/resumes/Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/ebrahimmansur/ebrahimmansur/blob/master/resumes/resumes.pdf)
 - :email: ebrahimmansur90117@gmail.com
 
 #### Coding Stats
