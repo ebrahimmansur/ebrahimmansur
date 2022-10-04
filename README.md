@@ -1,7 +1,7 @@
 
 ## Hi I'm Ebrahim Mansur
 
-A Libyan Coder that spend most of his time coding and post content about mobile and System Design.
+A Libyan Coder that spend most of his time coding and post content about software architecture.
 
 :mailbox: Reach me out!
 
