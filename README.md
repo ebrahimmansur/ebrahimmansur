@@ -7,13 +7,13 @@ A Libyan Coder that spend most of his time coding and post content about softwar
 
 [![Twitter Badge](https://img.shields.io/badge/-@Ebrahim90117-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ebrahim90117)[![Linkedin Badge](https://img.shields.io/badge/-Ebrahim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahim-mansur-51b526202)[![Mail Badge](https://img.shields.io/badge/-Ebrahim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ebrahimmansur90117@gmail.com)
 
-Here are some ideas to get you started about me:
+A Libyan Coder that spend most of his time coding and post content about Software Architecture. 
 
-- 🌱 I’m currently working as a flutter develpor and talking about software architect along side my team.
-- 🤔 I’m looking for help with project ideas.
-- 💬 Ask me about Flutter and .Net
-- 📫 How to reach me: ebrahimmansur90117@gmail.com
-- ⚡ Fun fact: I always find a way in helping the community.
+🤔 Problem-Solving: The basic unit of opportunity to acquire new knowledge. Breaking down problems into indivisible units and solving them piece by piece is Fun like solving a puzzle.
+
+🔀 Domain problem : Software Conversion - Understanding the domain problem of a Business and turning it into software.
+
+📫 How to reach me: ebrahimmansur90117@gmail.com
 
 #### Top Technologies
 
