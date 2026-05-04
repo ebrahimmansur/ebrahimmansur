@@ -11,10 +11,33 @@ Understanding business problems and converting them into scalable, real-world so
 
 ## 🚀 Projects I've Worked On
 
-### **Yummy** *(Oct 2017 – Dec 2018)*
+### **LTT LIFE** *(Libya Telecom and Technology)* 
 
-A food delivery platform focused on empowering women chefs to grow their businesses.
-🏆 Recognized as one of the winners in the *Enjazi Startup Competition*.
+A full-service telecom management app designed to centralize user operations.
+
+**My Role:**
+
+* Core contributor in building and scaling the application
+* Managing store releases and updates
+
+**Key Features:**
+
+* Balance transfer between accounts
+* Quota sharing
+* Top-up via local bank cards
+* Manage multiple accounts (family & friends) تحت حساب واحد
+
+---
+
+### **Enjaz (Maintenance & Development)**
+
+An educational platform focused on delivering interactive learning experiences by combining technology and education.
+
+🎯 Focus:
+
+* System stability
+* Continuous feature enhancement
+* Improving learning engagement
 
 ---
 
@@ -44,35 +67,13 @@ A distributed payment system providing:
 
 ---
 
-### **Enjaz (Maintenance & Development)**
+### **Yummy** *(Oct 2017 – Dec 2018)*
 
-An educational platform focused on delivering interactive learning experiences by combining technology and education.
-
-🎯 Focus:
-
-* System stability
-* Continuous feature enhancement
-* Improving learning engagement
+A food delivery platform focused on empowering women chefs to grow their businesses.
+🏆 Recognized as one of the winners in the *Enjazi Startup Competition*.
 
 ---
 
-### **LTT LIFE** *(Libya Telecom and Technology)*
-
-A full-service telecom management app designed to centralize user operations.
-
-**My Role:**
-
-* Core contributor in building and scaling the application
-* Managing store releases and updates
-
-**Key Features:**
-
-* Balance transfer between accounts
-* Quota sharing
-* Top-up via local bank cards
-* Manage multiple accounts (family & friends) تحت حساب واحد
-
----
 
 ## 📫 Reach me out!
 
