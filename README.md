@@ -1,113 +1,190 @@
+# Hi, I'm Ebrahim Mansur 👋
 
-## Hi I'm Ebrahim Mansur
+Software Engineer passionate about building scalable mobile applications, backend services, and cloud-native platforms.
 
-🤔 **Problem-Solving**
-The basic unit of opportunity to acquire new knowledge. I break problems down into indivisible units and solve them piece by piece — like solving a puzzle.
+I specialize in transforming complex business requirements into reliable software systems—from designing mobile experiences to building backend APIs, automating deployments, and maintaining production infrastructure.
 
-🔀 **Domain Problem Solving**
-Understanding business problems and converting them into scalable, real-world software systems.
-
----
-
-## 🚀 Projects I've Worked On
-
-### **LTT LIFE** *(Libya Telecom and Technology)* 
-
-A full-service telecom management app designed to centralize user operations.
-
-**My Role:**
-
-* Core contributor in building and scaling the application
-* Managing store releases and updates
-
-**Key Features:**
-
-* Balance transfer between accounts
-* Quota sharing
-* Top-up via local bank cards
-* Manage multiple accounts (family & friends) تحت حساب واحد
+Currently expanding my expertise in Cloud Engineering, Kubernetes, Platform Engineering, and Distributed Systems.
 
 ---
 
-### **Enjaz (Maintenance & Development)**
+# 🛠 Tech Stack
 
-An educational platform focused on delivering interactive learning experiences by combining technology and education.
+### Mobile
 
-🎯 Focus:
+Flutter • Dart • Bloc/Cubit • Riverpod • GetIt • Hive • Dio
 
-* System stability
-* Continuous feature enhancement
-* Improving learning engagement
+### Backend
 
----
+ASP.NET Core • Web APIs • gRPC • Entity Framework Core • PostgreSQL • Redis • SignalR • Background Services
 
-### **Tahseen App** *(Sep 2021 – 2023)*
+### DevOps
 
-A national platform for COVID-19 vaccination management in Libya.
-
-**What it does:**
-
-* Register citizens (via National ID) and residents (via identity proof)
-* Provide digital vaccination certificates
-* Display COVID-19 test results
-* Help users find nearby vaccination centers
-
-✅ Officially approved by the *National Center for Disease Control (Libya)*
+Docker • GitHub Actions • GitLab CI • Kubernetes • Linux • Nginx • Prometheus • Grafana
 
 ---
 
-### **Anis System**
+# 🌟 Featured Projects
 
-A distributed payment system providing:
+## 📱 LTT LIFE
 
-* Payment processing services
-* Gift card infrastructure
+A production telecom application developed for **Libya Telecom & Technology**, providing customers with a complete digital self-service experience.
 
-💡 Built with scalability and service distribution in mind.
+🔗 https://play.google.com/store/apps/details?id=ly.ltt.mynewltt
 
----
+📈 **Impact**
+- ⭐ 100,000+ Downloads
+- 🚀 Actively maintained and continuously enhanced
 
-### **Yummy** *(Oct 2017 – Dec 2018)*
+### Responsibilities
 
-A food delivery platform focused on empowering women chefs to grow their businesses.
-🏆 Recognized as one of the winners in the *Enjazi Startup Competition*.
+- Developed and maintained production Flutter applications
+- Delivered new customer-facing features
+- Managed Google Play & App Store releases
+- Improved application stability and performance
+- Collaborated with backend and business teams
 
----
+### Features
 
+- Account Management
+- Balance Transfer
+- Internet Quota Sharing
+- Online Recharge & Payments
+- Multi-Account Management
+- Service Requests
 
-## 📫 Reach me out!
+**Tech**
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ebrahim90117-1ca0f1?style=flat\&labelColor=1ca0f1\&logo=twitter\&logoColor=white\&link=https://twitter.com/Ipenywis)](https://twitter.com/Ebrahim90117)
-[![Linkedin Badge](https://img.shields.io/badge/-Ebrahim-0e76a8?style=flat\&labelColor=0e76a8\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ebrahim-mansur-51b526202)
-[![Mail Badge](https://img.shields.io/badge/-Ebrahim-c0392b?style=flat\&labelColor=c0392b\&logo=gmail\&logoColor=white)](mailto:ebrahimmansur90117@gmail.com)
-
----
-
-## 🧠 Top Technologies
-
-[![Dart Badge](https://img.shields.io/badge/-Dart-61DBFB?style=for-the-badge\&labelColor=black\&logo=dart\&logoColor=61DBFB)](#)
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge\&labelColor=black\&logo=flutter\&logoColor=007acc)](#)
-[![.Net Badge](https://img.shields.io/badge/-.Net-652076?style=for-the-badge\&labelColor=black\&logo=.Net\&logoColor=652076)](#)
-
----
-
-## 📄 Job Contact
-
-* 📎 [My Resume/CV](https://github.com/ebrahimmansur/ebrahimmansur/blob/master/resumes/resumes.pdf)
-* 📧 [ebrahimmansur90117@gmail.com](mailto:ebrahimmansur90117@gmail.com)
+Flutter • ASP.NET Core • REST APIs
 
 ---
 
-## 📊 Coding Stats
+## 💳 Anis
 
-<!--START_SECTION:waka-->
+Distributed financial platform providing payment processing and digital gift card services.
+🔗 https://play.google.com/store/apps/details?id=ly.com.e.anis
 
-```text
-Flutter   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-.Net      12 hrs 20 mins  ████████████████████░░░   70.00 % 
-YAML         2 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
+📈 **Impact**
+- ⭐ 100,000+ Downloads
 
-<!--END_SECTION:waka-->
+### Responsibilities
+
+- Backend development
+- Distributed service integration
+- Feature implementation
+
+### Features
+
+- Payment Processing
+- Gift Card Platform
+- Service Integration
+
+**Tech**
+`Flutter` • `REST APIs`
+
+---
+
+## 🎓 Enjaz
+
+Educational platform focused on improving digital learning experiences.
+
+🔗 https://play.google.com/store/apps/details?id=ly.bedayat.enjaz
+
+📈 **Impact**
+- ⭐ 10,000+ Downloads
+
+### Responsibilities
+
+- Feature development
+- Maintenance
+- Performance optimization
+- Production support
+
+### Focus Areas
+
+- Learning Experience
+- Platform Stability
+- Continuous Improvements
+- Long-term Maintainability
+
+---
+
+## 🏥 Tahseen
+
+National COVID-19 vaccination platform officially adopted by the National Center for Disease Control (Libya).
+
+🔗 https://play.google.com/store/apps/details?id=ly.gov.ncdc.vac&hl=en
+
+📈 **Impact**
+- ⭐ 50,000+ Downloads
+
+### Responsibilities
+
+- Mobile application development
+- Production maintenance
+- Feature implementation
+- Performance improvements
+
+### Features
+
+- Citizen Registration
+- Resident Registration
+- Digital Vaccination Certificates
+- COVID Test Results
+- Vaccination Center Locator
 
 
+---
+
+## 🍔 Yummy *(Archived)*
+
+Food delivery startup connecting customers with talented home chefs.
+
+🏆 Winner of the **Enjazi Startup Competition**
+
+### Responsibilities
+
+- Mobile application development
+- Product implementation
+- Startup MVP delivery
+
+---
+
+# 🌱 Currently Exploring
+
+- AWS Cloud
+- Kubernetes
+- Platform Engineering
+- Infrastructure as Code
+- GitOps
+- Distributed Systems
+- Observability
+- DevSecOps
+
+
+---
+
+# 📈 Engineering Principles
+
+I enjoy solving engineering challenges by breaking complex systems into simple, maintainable components.
+
+My focus is building software that is:
+
+- Scalable
+- Testable
+- Maintainable
+- Observable
+- Production Ready
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+ebrahimmansur90117@gmail.com
+
+💼 **LinkedIn**
+https://linkedin.com/in/ebrahim-mansur-51b526202
+
+📄 **Resume**
+https://github.com/ebrahimmansur/ebrahimmansur/blob/master/resumes/resumes.pdf
