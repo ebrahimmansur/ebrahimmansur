@@ -7,6 +7,15 @@ I specialize in transforming complex business requirements into reliable softwar
 Currently expanding my expertise in Cloud Engineering, Kubernetes, Platform Engineering, and Distributed Systems.
 
 ---
+# 🤝 Let's Connect
+
+📧 **Email**
+ebrahimmansur90117@gmail.com
+
+💼 **LinkedIn**
+https://linkedin.com/in/ebrahim-mansur-51b526202
+
+---
 
 # 🛠 Tech Stack
 
@@ -178,13 +187,3 @@ My focus is building software that is:
 
 ---
 
-# 🤝 Let's Connect
-
-📧 **Email**
-ebrahimmansur90117@gmail.com
-
-💼 **LinkedIn**
-https://linkedin.com/in/ebrahim-mansur-51b526202
-
-📄 **Resume**
-https://github.com/ebrahimmansur/ebrahimmansur/blob/master/resumes/resumes.pdf
