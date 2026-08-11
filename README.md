@@ -32,6 +32,29 @@ ASP.NET Core • Web APIs • gRPC • Entity Framework Core • PostgreSQL • 
 Docker • GitHub Actions • GitLab CI • Kubernetes • Linux • Nginx • Prometheus • Grafana
 
 ---
+# 🔓 Open Source
+
+I build open-source security libraries focused on making **DPoP (RFC 9449)** easier to adopt across Flutter and .NET applications.
+
+### 🔐 DPoP Flutter
+
+A client-side DPoP implementation that helps protect OAuth access tokens from replay attacks through cryptographic proof-of-possession.
+
+* [dpop_flutter](https://pub.dev/packages/dpop_flutter) — Core DPoP implementation
+* [dpop_flutter_dio](https://pub.dev/packages/dpop_flutter_dio) — Dio integration
+* [dpop_flutter_http](https://pub.dev/packages/dpop_flutter_http) — `package:http` integration
+
+### 🛡️ EbrahimMansur.Dpop
+
+A .NET library for validating DPoP proofs on APIs, handling signature verification, token binding, nonces, replay protection, and request validation.
+
+* [EbrahimMansur.Dpop](https://www.nuget.org/packages/EbrahimMansur.Dpop/0.1.1) — .NET DPoP validation
+
+**Goal:** Make modern API security easier to implement correctly while keeping the core security logic reusable and framework-independent.
+
+📦 **167+ package downloads across NuGet & pub.dev**
+
+---
 
 # 🌟 Featured Projects
 
