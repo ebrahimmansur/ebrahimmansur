@@ -1,40 +1,20 @@
 # Hi, I'm Ebrahim Mansur 👋
 
-Software Engineer passionate about building scalable mobile applications, backend services, and cloud-native platforms.
+**Software Engineer** building production mobile applications, backend services, and cloud-native systems.
 
-I specialize in transforming complex business requirements into reliable software systems—from designing mobile experiences to building backend APIs, automating deployments, and maintaining production infrastructure.
+I enjoy turning complex business requirements into **reliable, scalable, and maintainable software** — from mobile applications and backend APIs to deployment automation and production infrastructure.
 
-Currently expanding my expertise in Cloud Engineering, Kubernetes, Platform Engineering, and Distributed Systems.
-
----
-# 🤝 Let's Connect
-
-📧 **Email**
-ebrahimmansur90117@gmail.com
-
-💼 **LinkedIn**
-https://linkedin.com/in/ebrahim-mansur-51b526202
+My engineering journey spans **Flutter, .NET, distributed systems, DevOps, and cloud engineering**, with a growing focus on **Kubernetes, Platform Engineering, Infrastructure as Code, and cloud-native architecture**.
 
 ---
 
-# 🛠 Tech Stack
-
-### Mobile
-
-Flutter • Dart • Bloc/Cubit • Riverpod • GetIt • Hive • Dio
-
-### Backend
-
-ASP.NET Core • Web APIs • gRPC • Entity Framework Core • PostgreSQL • Redis • SignalR • Background Services
-
-### DevOps
-
-Docker • GitHub Actions • GitLab CI • Kubernetes • Linux • Nginx • Prometheus • Grafana
-
----
 # 🔓 Open Source
 
 I build open-source security libraries focused on making **DPoP (RFC 9449)** easier to adopt across Flutter and .NET applications.
+
+The goal is simple:
+
+> **Make modern API security easier to implement correctly while keeping the core security logic reusable and framework-independent.**
 
 ### 🔐 DPoP Flutter
 
@@ -46,11 +26,19 @@ A client-side DPoP implementation that helps protect OAuth access tokens from re
 
 ### 🛡️ EbrahimMansur.Dpop
 
-A .NET library for validating DPoP proofs on APIs, handling signature verification, token binding, nonces, replay protection, and request validation.
+A .NET library for validating DPoP proofs on APIs, including:
 
-* [EbrahimMansur.Dpop](https://www.nuget.org/packages/EbrahimMansur.Dpop/0.1.1) — .NET DPoP validation
+* Signature verification
 
-**Goal:** Make modern API security easier to implement correctly while keeping the core security logic reusable and framework-independent.
+* Token binding
+
+* Nonce handling
+
+* Replay protection
+
+* Request validation
+
+* [EbrahimMansur.Dpop](https://www.nuget.org/packages/EbrahimMansur.Dpop) — .NET DPoP validation
 
 📦 **167+ package downloads across NuGet & pub.dev**
 
@@ -58,155 +46,183 @@ A .NET library for validating DPoP proofs on APIs, handling signature verificati
 
 # 🌟 Featured Projects
 
-## 📱 LTT LIFE
+## 📱 LTT LIFE — Developed & Maintainer
 
-A production telecom application developed for **Libya Telecom & Technology**, providing customers with a complete digital self-service experience.
+A production telecom application developed for **Libya Telecom & Technology (LTT)**, providing customers with a complete digital self-service experience.
 
-🔗 https://play.google.com/store/apps/details?id=ly.ltt.mynewltt
+[Google Play](https://play.google.com/store/apps/details?id=ly.ltt.mynewltt)
 
-📈 **Impact**
-- ⭐ 100,000+ Downloads
-- 🚀 Actively maintained and continuously enhanced
+### 📈 Impact
+
+* ⭐ 100,000+ downloads
+* 🚀 Actively maintained and continuously enhanced
+* 📱 Production application serving LTT customers
 
 ### Responsibilities
 
-- Developed and maintained production Flutter applications
-- Delivered new customer-facing features
-- Managed Google Play & App Store releases
-- Improved application stability and performance
-- Collaborated with backend and business teams
+* Developed and maintained the production Flutter application
+* Delivered new customer-facing features
+* Managed Google Play & App Store releases
+* Improved application stability and performance
+* Integrated and consumed backend APIs
+* Collaborated with backend and business teams
 
-### Features
+### Key Features
 
-- Account Management
-- Balance Transfer
-- Internet Quota Sharing
-- Online Recharge & Payments
-- Multi-Account Management
-- Service Requests
+* Account Management
+* Balance Transfer
+* Internet Quota Sharing
+* Online Recharge & Payments
+* Multi-Account Management
+* Service Requests
 
-**Tech**
-
-Flutter • ASP.NET Core • REST APIs
+**Tech:** Flutter • ASP.NET Core • REST APIs
 
 ---
 
-## 💳 Anis
+## 💳 Anis — Developed & Maintainer
 
-Distributed financial platform providing payment processing and digital gift card services.
-🔗 https://play.google.com/store/apps/details?id=ly.com.e.anis
+A distributed financial platform providing **payment processing and digital gift card services**.
 
-📈 **Impact**
-- ⭐ 100,000+ Downloads
+[Google Play](https://play.google.com/store/apps/details?id=ly.com.e.anis)
+
+### 📈 Impact
+
+* ⭐ 100,000+ downloads
 
 ### Responsibilities
 
-- Backend development
-- Distributed service integration
-- Feature implementation
+* Backend development
+* Distributed service integration
+* Feature implementation
+* Production maintenance
 
-### Features
+### Key Features
 
-- Payment Processing
-- Gift Card Platform
-- Service Integration
+* Payment Processing
+* Gift Card Platform
+* Service Integration
 
-**Tech**
-`Flutter` • `REST APIs`
+**Tech:** Flutter • REST APIs
 
 ---
 
-## 🎓 Enjaz
+## 🎓 Enjaz — Developed & Maintainer
 
-Educational platform focused on improving digital learning experiences.
+An educational platform focused on improving digital learning experiences.
 
-🔗 https://play.google.com/store/apps/details?id=ly.bedayat.enjaz
+[Google Play](https://play.google.com/store/apps/details?id=ly.bedayat.enjaz)
 
-📈 **Impact**
-- ⭐ 10,000+ Downloads
+### 📈 Impact
+
+* ⭐ 10,000+ downloads
 
 ### Responsibilities
 
-- Feature development
-- Maintenance
-- Performance optimization
-- Production support
+* Feature development
+* Production maintenance
+* Performance optimization
+* Production support
 
 ### Focus Areas
 
-- Learning Experience
-- Platform Stability
-- Continuous Improvements
-- Long-term Maintainability
+* Learning Experience
+* Platform Stability
+* Continuous Improvements
+* Long-term Maintainability
 
 ---
 
-## 🏥 Tahseen
+## 🏥 Tahseen — Developed & Maintainer
 
-National COVID-19 vaccination platform officially adopted by the National Center for Disease Control (Libya).
+A national COVID-19 vaccination platform officially adopted by the **National Center for Disease Control (Libya)**.
 
-🔗 https://play.google.com/store/apps/details?id=ly.gov.ncdc.vac&hl=en
+[Google Play](https://play.google.com/store/apps/details?id=ly.gov.ncdc.vac)
 
-📈 **Impact**
-- ⭐ 50,000+ Downloads
+### 📈 Impact
+
+* ⭐ 50,000+ downloads
 
 ### Responsibilities
 
-- Mobile application development
-- Production maintenance
-- Feature implementation
-- Performance improvements
+* Mobile application development
+* Production maintenance
+* Feature implementation
+* Performance improvements
 
-### Features
+### Key Features
 
-- Citizen Registration
-- Resident Registration
-- Digital Vaccination Certificates
-- COVID Test Results
-- Vaccination Center Locator
-
+* Citizen Registration
+* Resident Registration
+* Digital Vaccination Certificates
+* COVID Test Results
+* Vaccination Center Locator
 
 ---
 
-## 🍔 Yummy *(Archived)*
+## 🍔 Yummy — Archived
 
-Food delivery startup connecting customers with talented home chefs.
+A food-delivery startup connecting customers with talented home chefs.
 
-🏆 Winner of the **Enjazi Startup Competition**
+🏆 **Winner of the Enjazi Startup Competition**
 
 ### Responsibilities
 
-- Mobile application development
-- Product implementation
-- Startup MVP delivery
+* Mobile application development
+* Product implementation
+* Startup MVP delivery
+
+---
+
+# 🛠 Tech Stack
+
+### 📱 Mobile
+
+Flutter • Dart • Bloc/Cubit • Riverpod • GetIt • Hive • Dio
+
+### ⚙️ Backend
+
+ASP.NET Core • Web APIs • gRPC • Entity Framework Core • PostgreSQL • Redis • SignalR • Background Services
+
+### ☁️ DevOps & Infrastructure
+
+Docker • GitHub Actions • GitLab CI • Kubernetes • Linux • Nginx • Prometheus • Grafana
 
 ---
 
 # 🌱 Currently Exploring
 
-- AWS Cloud
-- Kubernetes
-- Platform Engineering
-- Infrastructure as Code
-- GitOps
-- Distributed Systems
-- Observability
-- DevSecOps
+I'm continuously expanding from application development toward **cloud-native and platform engineering**.
 
-
----
-
-# 📈 Engineering Principles
-
-I enjoy solving engineering challenges by breaking complex systems into simple, maintainable components.
-
-My focus is building software that is:
-
-- Scalable
-- Testable
-- Maintainable
-- Observable
-- Production Ready
+* ☁️ AWS Cloud
+* ☸️ Kubernetes
+* 🏗️ Platform Engineering
+* 🧱 Infrastructure as Code
+* 🔄 GitOps
+* 🌐 Distributed Systems
+* 📊 Observability
+* 🔐 DevSecOps
 
 ---
 
+# 📐 Engineering Principles
+
+I enjoy solving engineering problems by breaking complex systems into **simple, maintainable components**.
+
+I care about software that is:
+
+* **Scalable**
+* **Testable**
+* **Maintainable**
+* **Observable**
+* **Production Ready**
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+[ebrahimmansur90117@gmail.com](mailto:ebrahimmansur90117@gmail.com)
+
+💼 **LinkedIn**
+[linkedin.com/in/ebrahim-mansur-51b526202](https://linkedin.com/in/ebrahim-mansur-51b526202)
