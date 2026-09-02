@@ -10,12 +10,6 @@ My engineering journey spans **Flutter, .NET, distributed systems, DevOps, and c
 
 # 🔓 Open Source
 
-I build open-source security libraries focused on making **DPoP (RFC 9449)** easier to adopt across Flutter and .NET applications.
-
-The goal is simple:
-
-> **Make modern API security easier to implement correctly while keeping the core security logic reusable and framework-independent.**
-
 ### 🔐 DPoP Flutter
 
 A client-side DPoP implementation that helps protect OAuth access tokens from replay attacks through cryptographic proof-of-possession.
