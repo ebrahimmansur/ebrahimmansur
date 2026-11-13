@@ -108,7 +108,7 @@ A production telecom application developed for **Libya Telecom & Technology (LTT
 
 ---
 
-## 💳 Anis — Developed & Maintainer
+## 💳 Anis — Previously Developed
 
 A distributed financial platform providing **payment processing and digital gift card services**.
 
@@ -123,7 +123,6 @@ A distributed financial platform providing **payment processing and digital gift
 - Backend development
 - Distributed service integration
 - Feature implementation
-- Production maintenance
 
 ### Key Features
 
